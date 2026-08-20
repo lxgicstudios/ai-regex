@@ -47,10 +47,7 @@
     "npx",
     "openai",
     "parsing",
-    "pattern-matching",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "pattern-matching"
   ],
   "license": "MIT",
   "main": "dist/index.js",
